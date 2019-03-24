@@ -1,0 +1,7 @@
+[instances]
+123.12.3.23
+134.2.34.4
+
+[instances:vars]
+user_name=Bijay
+user_des="Dev User"
